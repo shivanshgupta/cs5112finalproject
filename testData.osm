@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.0 (6722 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="48.5559000" minlon="12.0940000" maxlat="48.5717000" maxlon="12.1268000"/>
+ <node id="129373" visible="true" version="3" changeset="23085381" timestamp="2014-06-22T17:37:54Z" user="Eckhart Wörner" uid="2675" lat="48.5684487" lon="12.1009757"/>
+ <node id="129374" visible="true" version="3" changeset="28532835" timestamp="2015-01-31T21:02:17Z" user="FvGordon" uid="161619" lat="48.5692405" lon="12.1061550"/>
+ <node id="129375" visible="true" version="3" changeset="28532835" timestamp="2015-01-31T21:02:17Z" user="FvGordon" uid="161619" lat="48.5693411" lon="12.1061093"/>
+ <node id="129376" visible="true" version="3" changeset="23085381" timestamp="2014-06-22T17:37:54Z" user="Eckhart Wörner" uid="2675" lat="48.5685533" lon="12.1009200"/>
+ <node id="129377" visible="true" version="4" changeset="15633457" timestamp="2013-04-06T22:52:32Z" user="F6F" uid="289496" lat="48.5672903" lon="12.0956121"/>
+ <node id="129378" visible="true" version="2" changeset="1317510" timestamp="2009-05-25T16:43:41Z" user="ck3d" uid="7596" lat="48.5697776" lon="12.1122436"/>
+ <node id="129381" visible="true" version="2" changeset="1317510" timestamp="2009-05-25T16:43:41Z" user="ck3d" uid="7596" lat="48.5698939" lon="12.1121826"/>
+ <node id="129382" visible="true" version="1" changeset="87612" timestamp="2006-08-18T19:03:57Z" user="Jörg Ostertag" uid="573" lat="48.5708122" lon="12.1216803"/>
+ <node id="129384" visible="true" version="2" changeset="1317510" timestamp="2009-05-25T16:43:41Z" user="ck3d" uid="7596" lat="48.5723658" lon="12.1295051"/>
+ <node id="129389" visible="true" version="1" changeset="541415" timestamp="2007-09-30T17:08:34Z" user="mikes" uid="6270" lat="48.5709439" lon="12.1215944"/>
+ <node id="20421481" visible="true" version="8" changeset="28475411" timestamp="2015-01-28T21:47:44Z" user="sennewald63" uid="372615" lat="48.5662134" lon="12.0925749">
+ </node>
+ <way id="4050443" visible="true" version="15" changeset="41680215" timestamp="2016-08-25T07:06:22Z" user="blutsauger" uid="14502">
+  <nd ref="129373"/>
+  <nd ref="129374"/>
+  <nd ref="129375"/>
+  <nd ref="129376"/>
+  <nd ref="129377"/>
+  <nd ref="20421481"/>
+ </way>
+ <way id="4050638" visible="true" version="6" changeset="28475411" timestamp="2015-01-28T21:47:44Z" user="sennewald63" uid="372615">
+  <nd ref="129378"/>
+  <nd ref="129381"/>
+  <nd ref="129382"/>
+  <nd ref="129384"/>
+  <nd ref="129389"/>
+  <nd ref="20421481"/>
+ </way>
+ </osm>
